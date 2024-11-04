@@ -35,7 +35,9 @@ sections:
       title: 'Pesquisas'
       subtitle: ''
       text: |-
-        Professor e pesquisador brasileiro com doutorado em Engenharia de Software pela Universidade Federal de Pernambuco (UFPE). Atua como professor associado na Universidade Federal Rural de Pernambuco (UFRPE) e é vinculado ao Instituto Nacional de Engenharia de Software no Cin/UFPE. Com experiência em projetos de pesquisa sobre cidades inteligentes, avaliação empírica e tecnologias da informação, ele tem colaborado em iniciativas acadêmicas e industriais, incluindo coordenação de projetos e orientação de estudantes em nível de graduação e pós-graduação​.
+        Professor e pesquisador brasileiro com doutorado em Engenharia de Software pela Universidade Federal de Pernambuco (UFPE). Atua como professor associado na Universidade Federal Rural de Pernambuco (UFRPE) e é vinculado ao Instituto Nacional de Engenharia de Software no Cin/UFPE.
+        
+        Com experiência em projetos de pesquisa sobre cidades inteligentes, avaliação empírica e tecnologias da informação, ele tem colaborado em iniciativas acadêmicas e industriais, incluindo coordenação de projetos e orientação de estudantes em nível de graduação e pós-graduação​.
         
         Fique a vontade para contactar. 😃
     design:
