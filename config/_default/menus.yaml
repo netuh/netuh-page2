@@ -10,18 +10,18 @@ main:
   - name: Papers
     url: /#papers
     weight: 11
-  - name: Talks
+  - name: Palestras
     url: /#talks
     weight: 12
   - name: News
     url: /#news
     weight: 13
-  - name: Experience
+  - name: Experiência
     url: experience/
     weight: 20
-  - name: Projects
+  - name: Projetos
     url: projects/
     weight: 30
-  - name: Teaching
+  - name: Ensino
     url: teaching/
     weight: 40
