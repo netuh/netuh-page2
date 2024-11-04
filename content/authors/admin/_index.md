@@ -46,7 +46,7 @@ profiles:
   # - icon: academicons/orcid
   #   url: https://orcid.org/
 
-interests:
+interesses:
   - Data Analitics
   - Engenharia de Software
   - Internet das Coisas
