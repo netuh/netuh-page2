@@ -35,9 +35,7 @@ sections:
       title: 'Pesquisas'
       subtitle: ''
       text: |-
-        Professor e pesquisador brasileiro com doutorado em Engenharia de Software pela Universidade Federal de Pernambuco (UFPE). Atua como professor associado na Universidade Federal Rural de Pernambuco (UFRPE) e é vinculado ao Instituto Nacional de Engenharia de Software no Cin/UFPE.
-        
-        Com experiência em projetos de pesquisa sobre cidades inteligentes, avaliação empírica e tecnologias da informação, ele tem colaborado em iniciativas acadêmicas e industriais, incluindo coordenação de projetos e orientação de estudantes em nível de graduação e pós-graduação​.
+        As pesquisas conduzidas por Prof. Waldemar Neto são voltadas principalmente para o desenvolvimento e avaliação de soluções em engenharia de software com foco em cidades inteligentes. Ele explora temas como avaliação empírica, simulação de dados e processamento de grandes volumes de informação para criar metodologias que auxiliem tanto a academia quanto a indústria. Além disso, seus trabalhos abrangem estudos sobre plataformas integradas e interoperabilidade de sistemas, oferecendo guias e ferramentas práticas para o desenvolvimento eficiente e eficaz de tecnologias aplicadas a contextos urbanos​
         
         Fique a vontade para contactar. 😃
     design:

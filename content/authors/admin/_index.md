@@ -169,6 +169,8 @@ languages:
 #       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## About Me
+## Sobre mim
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Professor e pesquisador brasileiro com doutorado em Engenharia de Software pela Universidade Federal de Pernambuco (UFPE). Atua como professor associado na Universidade Federal Rural de Pernambuco (UFRPE) e é vinculado ao Instituto Nacional de Engenharia de Software no Cin/UFPE.
+        
+Com experiência em projetos de pesquisa sobre cidades inteligentes, avaliação empírica e tecnologias da informação, ele tem colaborado em iniciativas acadêmicas e industriais, incluindo coordenação de projetos e orientação de estudantes em nível de graduação e pós-graduação​.
